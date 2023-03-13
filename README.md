@@ -4,7 +4,7 @@ This is a preloading animation made by me using HTML, CSS and JavaScript.
 If you watch anime you could somewhat relate to what I made. She is Mikasa Ackerman from AOT flying across your screen with her omni-directional mobility gear, splitting your screen when your website loads.
 
 ## Usage
-To use these preloader, simply download the zip file or copy the HTML and CSS and paste them into your project. If you want you could optimise the code further and modify it according to your requirements
+To use these preloader, simply download the zip file or copy the HTML and CSS and paste them into your project. If you want you could optimise the code further and modify it according to your requirements.
 
 ## Working
 I have used JavaScript in the following way to implement the animation.
